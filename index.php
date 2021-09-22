@@ -15,4 +15,9 @@
 
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi porro vel harum eius dolore, quas sed impedit aut nostrum doloremque, quaerat soluta id repellendus ab tenetur, praesentium minus eum deserunt.</p>
 
+<ul>
+    <li>satu</li>
+    <li>dua</li>
+</ul>
+
 </html>
